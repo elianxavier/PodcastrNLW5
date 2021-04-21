@@ -1,5 +1,5 @@
 import { GetStaticProps } from "next";
-import { api } from "..services/api";
+import { api } from "../services/api";
 
 type Episode = {
   id: string;
